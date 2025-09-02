@@ -1,3 +1,5 @@
+__This list includes both my completed and ongoing certificates.__
+
 | Sr No. | Certificate Name | Certificate Provider |
 |:------:|---|---| 
 | <p align="center">1.</p> | [Agile PM with Jira Cloud: 1](https://github.com/Suhas-Kadhane/Certificates/wiki/Agile-PM-with-Jira-Cloud:-1) | Project Management Institute (PMI) |
