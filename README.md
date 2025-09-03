@@ -13,6 +13,6 @@ __This list includes both my completed and ongoing certificates.__
 | <p align="center">9.</p> | [Six Sigma Yellow Belt Certificate](https://github.com/Suhas-Kadhane/Certificates/wiki/Six-Sigma-Yellow-Belt-Certification) | 6 Sigma Study by VMEdu |
 | <p align="center">10.</p> | [Technical Writer Certificate](https://github.com/Suhas-Kadhane/Certificates/wiki/Technical-Writer-Certificate-by-Tech-Writer's-Tribe) | Tech Writer’s Tribe |
 | <p align="center">11.</p> | [Technical Writing Certificate](https://github.com/Suhas-Kadhane/Certificates/wiki/Technical-Writer-Certificate-by-Udemy) | Udemy |
-| <p align="center">12.</p> | API Documentation Certificte (Ongoing) | I'd Rather Be Writing |
+| <p align="center">12.</p> | API Documentation Certificate (Ongoing) | I'd Rather Be Writing |
 | <p align="center">13.</p> | Google Technical Writer One and Two (Ongoing) | Google |
 | <p align="center">14.</p> | Introduction to GraphQL (Ongoing) | GraphQL |
